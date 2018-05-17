@@ -4,7 +4,7 @@ var btn = document.getElementById("btn");
 
 btn.addEventListener("click", function(){
 	var Request = new XMLHttpRequest();
-	Request.open('GET','https://learnwebcode.github.io/json-example/animals-'+pageCounter+'.json' );
+	Request.open('GET','https://chelsea534.github.io/testRepo/test'+pageCounter+'.json' );
 	Request.onload=function(){
 	if(Request.status>=200 && Request.status<400){
 		var ourData=JSON.parse(Request.responseText);

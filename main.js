@@ -29,7 +29,7 @@ if(pageCounter>3){
 function renderHTML(data){
 var htmlString ="";
 for(i=0; i<data.length; i++){
-	htmlString+="<p>"+data[i].name+" is a"+data[i].species+" that likes to eat ";
+	htmlString+="<p>"+data[i].name+" is a "+data[i].species+" that likes to eat ";
 
 	for(x=0;x<data[i].foods.likes.length; x++){
 		if(x==0){

@@ -1,0 +1,26 @@
+[
+{
+	"name": "Spikey",
+	"species":"Hedgedog",
+	"foods": {
+		"likes": ["celery", "brocolli"],
+		"dislikes": ["worm"]
+	}
+},
+{
+	"name": "Wouu",
+	"species":"Wolf",
+	"foods": {
+		"likes": ["Meat"],
+		"dislikes": ["Grass"]
+	}
+},
+{
+	"name": "Tony",
+	"species":"Budgie",
+	"foods": {
+		"likes": ["Wheat", "brocolli", "nari"],
+		"dislikes": ["Soba"]
+	}
+}
+]

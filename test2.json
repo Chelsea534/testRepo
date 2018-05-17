@@ -1,0 +1,26 @@
+[
+{
+	"name": "Doggo",
+	"species":"dog",
+	"foods": {
+		"likes": ["Grapes", "pineapple"],
+		"dislikes": ["broccoli"]
+	}
+},
+{
+	"name": "Meaow",
+	"species":"cat",
+	"foods": {
+		"likes": ["fish", "grass"],
+		"dislikes": ["cockroach"]
+	}
+},
+{
+	"name": "Purrrr",
+	"species":"cat",
+	"foods": {
+		"likes": ["canned food"],
+		"dislikes": ["dry food"]
+	}
+}
+]
